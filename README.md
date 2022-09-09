@@ -10,3 +10,6 @@ ubuntu, TensorFlow 1.x,
 2. Put the inputs to corresponding folders (raw underwater images to ./Finally2/A, medium transmission to ./Finally2/WB)
 3. Python main.py (model: default = 'inference')
 4. Find the result in Test folder.
+
+# Contact Us
+If you have any questions, please contact us (chikaichen1996@163.com).
