@@ -11,5 +11,8 @@ ubuntu, TensorFlow 1.x, keras==2.3.1, numpy==1.16.1.
 3. Python main.py (model: default = 'inference')
 4. Find the result in Test folder.
 
+# Underwater Image Dehazing Benchmark (UIDB)
+Download UIDB from Baidu Cloud:
+
 # Contact Us
 If you have any questions, please contact us (chikaichen1996@163.com).
