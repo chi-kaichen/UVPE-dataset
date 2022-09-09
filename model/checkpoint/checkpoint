@@ -1,6 +1,0 @@
-model_checkpoint_path: "/root/autodl-nas/FPGAN_new/model/checkpoint/gan-370002"
-all_model_checkpoint_paths: "/root/autodl-nas/FPGAN_new/model/checkpoint/gan-366002"
-all_model_checkpoint_paths: "/root/autodl-nas/FPGAN_new/model/checkpoint/gan-367002"
-all_model_checkpoint_paths: "/root/autodl-nas/FPGAN_new/model/checkpoint/gan-368002"
-all_model_checkpoint_paths: "/root/autodl-nas/FPGAN_new/model/checkpoint/gan-369002"
-all_model_checkpoint_paths: "/root/autodl-nas/FPGAN_new/model/checkpoint/gan-370002"
