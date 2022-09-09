@@ -12,7 +12,7 @@ ubuntu, TensorFlow 1.x, keras==2.3.1, numpy==1.16.1.
 4. Find the result in Test folder.
 
 # Underwater Image Dehazing Benchmark (UIDB)
-Download UIDB from Baidu Cloud: https://pan.baidu.com/s/1x085oHJ_o1MlKCB1ktVXlg?pwd=1004 key: 1004 or Google Drive:
+Download UIDB from Baidu Cloud: https://pan.baidu.com/s/1x085oHJ_o1MlKCB1ktVXlg?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1uYyav5fBGdJcZ1XsxdMqXTFwdc-6E82V/view?usp=sharing
 
 # Contact Us
 If you have any questions, please contact us (chikaichen1996@163.com).
