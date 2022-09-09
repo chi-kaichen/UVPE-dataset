@@ -7,7 +7,7 @@ ubuntu, TensorFlow 1.x, keras==2.3.1, numpy==1.16.1.
 
 # Testing
 1. Download the checkpoint from Baidu Cloud: https://pan.baidu.com/s/1OS7XPO6A6KfshTzYzBAipg?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1jTQbKTey4v_kIIGWxC7CPoepbbsXyS2M/view?usp=sharing and put it in FPGAN folder.
-2. Download the VGG-pretrained model from Baidu Cloud: 
+2. Download the VGG-pretrained model from Baidu Cloud: https://pan.baidu.com/s/1NvZRtsxy7MPaf73vMj2E4w?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1R_7559x3_WhOxiqoeNkbcnc4E1_bILXv/view?usp=sharing
 3. Put the inputs to corresponding folders (raw underwater images to ./Finally2/A, medium transmission to ./Finally2/WB)
 4. Python main.py (model: default = 'inference')
 5. Find the result in Test folder.
