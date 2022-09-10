@@ -1,5 +1,5 @@
 # FPGAN
-Feedback Pyramid Network for Underwater Image Dehazing.
+Underwater Image Dehazing Using Feedback Pyramid Network and a New Benchmark.
 This is the code of the implementation of the FPGAN.
 
 # Requirement
